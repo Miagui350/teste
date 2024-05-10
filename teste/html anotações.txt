@@ -1,0 +1,40 @@
+<br/> quebra de linha.
+&nbsp; espaço sem quebra
+<wbr/> quebra de palavra
+&shy;  quebra de palavras com efen
+&lt;<
+&gt ;>
+&le;<=
+&ge;>=
+&paund; simbolo de libra
+&yen; simbolo de yen
+&euro; simbolo euro
+
+&copy;
+&reg;
+&trade;
+&permil;
+&sum;
+&infin;
+&times;
+&plusmn;
+&oplus;
+&radic;
+&ne;
+
+&delta; se  quiser mausculo so digitar com a letra maiúscula.
+&lambida;
+&omega;
+&phi;
+
+
+&larr
+&rarr
+&uarr
+&darr
+&harr
+
+&spades;
+&clubs;
+&hearts;
+&diams;
