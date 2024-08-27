@@ -1,0 +1,12 @@
+
+Procedimento de Instalação
+
+
+1 - Realize o download do arquivo "openvpn-connect-3.3.7.2979.msi" e realize a instalação;
+
+2 - Após a instalação realize o download do arquivo "pfFWVPN-UDP4-1499-mmeuser-config" e faça a importação
+no software OpenVPN;
+
+3 - Realize o login na ferramenta usando os dados abaixo:
+      usuário: mmeuser
+      senha: mme@gov

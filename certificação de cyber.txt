@@ -1,0 +1,32 @@
+ter um aprendizado   sobre  as regulamentações  como
+nist
+cis 
+iso
+securyt plus +   -> comptia
+--------------------------------------------------------------------------------------------------------
+Conhecimento em Linux e Windows;
+Conhecimento em rede de computadores (protocolos e arquitetura);
+Conhecimento em Nessus, Nmap, Burp Suite, Metaexploit;
+Vivência com segurança ofensiva e defensiva;
+Vivência com frameworks de segurança cibernética (OWASP, PTES, NIST, CIS, 27001 e 27002).
+--------------------------------------------------------------------------------------------------------
+
+Requirements And Qualifications
+
+Diploma de curso de nível superior de graduação na área de Tecnologia da Informação;
+Conhecimento avançado em segurança da informação, com experiência em operação, sustentação e suporte;
+Conhecimento em Firewalls, WAF, Proxy, Endpoint;
+Possuir ao menos uma das seguintes certificações:
+CompTIA Security+
+Fortinet Network Security Expert 4 – NSE4
+Fortinet NSE6
+ITILv3 Foundation
+-----------------------------------------------------------------------------------------------------------
+
+
+Invoke-Command -ComputerName "NomeDoComputadorRemoto" -ScriptBlock {
+    Get-NetAdapter | Select-Object Name, MacAddress
+}
+
+
+$ ls –-help

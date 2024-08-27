@@ -1,0 +1,90 @@
+AULA 4,5 e 6
+<br/> quebra de linha.
+&nbsp; espaço sem quebra
+<wbr/> quebra de palavra
+&shy;  quebra de palavras com efen
+&lt;<
+&gt ;>
+&le;<=
+&ge;>=
+&paund; simbolo de libra
+&yen; simbolo de yen
+&euro; simbolo euro
+
+&copy;
+&reg;
+&trade;
+&permil;
+&sum;
+&infin;
+&times;
+&plusmn;
+&oplus;
+&radic;
+&ne;
+
+&delta; se  quiser mausculo so digitar com a letra maiúscula.
+&lambida;
+&omega;
+&phi;
+
+
+&larr
+&rarr
+&uarr
+&darr
+&harr
+
+&spades;
+&clubs;
+&hearts;
+&diams;
+=========================================================================
+AULA 07
+ <b></b> -> colocar em negrito 
+<i></i> ialico 
+<em> enfase 
+<sapn style ="text-decoration" :underline>
+sublinhado
+<del> riscado
+font-weight: valores de 100 a 900  para deixar o mais negrito possivel
+text-indent: valor em px->faz o alinhamento nas margens do paragrafos 
+<sup> - sobre escrito
+<sub> sub escrito
+<code> formatação de codigos
+<pre> pre formatação todos os espaços e enter são considerados.
+=======================================================================================
+AULA 8
+style:backgraund-color -> colocar cor de fundo 
+color - colocar cor na letra
+backgraound-mage: url(" o caminho da imagem ")- para colocar imagem como fundo;
+===========================================================================
+AULA 9
+IMAGENS
+<figure> utilizado para colocar imagens e  um aspecto semantico
+<figcapition> legendas  para imagens
+
+======================================================================================
+AULA 10 FORMATAÇÃO DE IMAGEM NO CSS
+<link rel=" stylesheet" href=" nome para referencia do arquivo"/>
+border:
+width - largura
+height- altura
+box-shadow: comprimento, largura, espalhamento e cor- criar uma sombra
+padding criar um espaço
+box-sizing:border-box
+opacity:
+hover + nome da  variavel  configura junto da oapacity :1 para para exibir  a legenda
+transition:1s no caso da transition e  utilizado para   ter  o tempo de  aparecimento do  box
+ 
+=========================================================================
+AULA 11- OL UL LI
+
+<ol> lista ordenada se usar Type= "1 ,I ou a" eles vão orderna  ou em números ou alfabeticamente.
+<li> os itens da lista
+depois do type se usar um codigo start="" posso começar do valor que eu desejo.
+<ul> lista não ordenada
+type= square, disc ou circle para formatos n ordenados
+
+
+

@@ -1,0 +1,21 @@
+antes de ir para pentest
+1- sistema operacional linux
+2-redes
+3-programação
+ 
+
+tipos de  pentest
+blackbox:  nenhum conhecimento sobre o alvo
+
+graybox: algum conhecimento sobre o alvo
+
+
+whitebox: conhecimento total sobre o alvo
+
+
+------------------------------------------------------
+certificações :
+comptia A+
+lpic-1
+comptia securit plus
+
